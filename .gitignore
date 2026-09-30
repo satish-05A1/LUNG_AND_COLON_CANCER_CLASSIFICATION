@@ -1,0 +1,17 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+*.pth
+*.pt
+*.onnx
+dataset/
+datasets/
+reference_images/
+.env
+*.log
+.vscode/
+build_output.txt
